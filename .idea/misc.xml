@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/alsgh/AndroidStudioProjects/MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.26564102564102565" />
+        <entry key="..\:/Users/alsgh/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_blackboard.xml" value="0.26564102564102565" />
+        <entry key="..\:/Users/alsgh/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_camerabutton.xml" value="0.26564102564102565" />
+        <entry key="..\:/Users/alsgh/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_cancel.xml" value="0.26564102564102565" />
+        <entry key="..\:/Users/alsgh/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_drop.xml" value="0.26564102564102565" />
+        <entry key="..\:/Users/alsgh/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_film.xml" value="0.26564102564102565" />
+        <entry key="..\:/Users/alsgh/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_filter.xml" value="0.26564102564102565" />
+        <entry key="..\:/Users/alsgh/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_filter_white.xml" value="0.26564102564102565" />
+        <entry key="..\:/Users/alsgh/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_gold_medal.xml" value="0.26564102564102565" />
+        <entry key="..\:/Users/alsgh/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26564102564102565" />
+        <entry key="..\:/Users/alsgh/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_photo_camera.xml" value="0.26564102564102565" />
+        <entry key="..\:/Users/alsgh/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_photo_camera_white.xml" value="0.26564102564102565" />
+        <entry key="..\:/Users/alsgh/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_poster.xml" value="0.26564102564102565" />
+        <entry key="..\:/Users/alsgh/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_sun.xml" value="0.26564102564102565" />
+        <entry key="..\:/Users/alsgh/AndroidStudioProjects/MyApplication/app/src/main/res/drawable/ic_white_board.xml" value="0.26564102564102565" />
+        <entry key="..\:/Users/alsgh/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/Users/alsgh/AndroidStudioProjects/MyApplication/app/src/main/res/layout/filter_view.xml" value="0.24139492753623187" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
